@@ -37,5 +37,3 @@ Este proyecto analiza la distribución de medallas olímpicas por país utilizan
    - Se identifica el país con más medallas en total.
 
 ---
-
-## 📊 Ejemplo de salida
