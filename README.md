@@ -1,6 +1,6 @@
 # 🥇 Análisis de Medallas Olímpicas
 
-Este proyecto analiza la distribución de medallas olímpicas por país utilizando **Python** y la biblioteca **pandas**. Se realiza limpieza de datos, exploración básica, agrupamiento y ordenamiento para encontrar los países más exitosos en términos de medallas obtenidas.
+Este es mi proyecto N°1 de mi curso de Udemy **"Python para Data Science & Machine Learning en 18 días"**. Este proyecto analiza la distribución de medallas olímpicas por país utilizando **Python** y la biblioteca **pandas**. Se realiza limpieza de datos, exploración básica, agrupamiento y ordenamiento para encontrar los países más exitosos en términos de medallas obtenidas.
 
 ---
 
